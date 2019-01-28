@@ -1,0 +1,49 @@
+body{
+    font-family: "Playfair Display", serif;
+  background-color: #71494a;
+}
+
+
+header div{
+    padding: 10px;
+  }
+
+  
+  h2{
+    background-color: #b5735b;
+    color:  #3e3e32;
+    margin-block-end: 0;
+    margin-block-start: 8px;
+  }
+
+
+
+  
+
+
+
+
+  #section-skills{
+    border: 1px dashed #b5735b;
+    background-color: rgba(229,211,197,0.6);
+  font-family: "Playfair Display", serif;
+  }
+  
+  
+
+
+
+  nav a{
+    border: 1px dashed #b5735b;
+    background-color: rgba(229,211,197,0.6);
+    font-family: "Playfair Display", serif;
+  }
+
+
+
+  
+
+  footer{
+    background-color: #b18b64;
+  }
+
